@@ -1,0 +1,1 @@
+select * from timescaledb_information.chunks;
